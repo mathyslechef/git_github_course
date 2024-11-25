@@ -1,2 +1,2 @@
 # git_github_course
-Coturs Git / github 
+Premier cour WCL sour GIT et GIT HUB
