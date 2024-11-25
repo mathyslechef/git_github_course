@@ -1,2 +1,2 @@
 # git_github_course
-Premier cour WCL sour GIT et GIT HUB
+Premier cour WCS sour GIT et GITHUB
